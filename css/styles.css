@@ -92,7 +92,7 @@ body {
 .didDLetter,
 .frontendTLetter {
   font-size: 28px;
-  font-weight: 400px;
+  font-weight: 400;
   color: #009e00;
   text-decoration: none;
   text-transform: uppercase;
@@ -133,7 +133,7 @@ body {
 .frontendDLetter,
 .developerVLetter {
   font-size: 32px;
-  font-weight: 700px;
+  font-weight: 700;
   color: aquamarine;
   text-decoration: orange underline overline;
   text-transform: uppercase;
@@ -176,8 +176,8 @@ body {
 
 .frontendFLetter,
 .exclamation-mark {
-  font-size: 27px;
-  font-weight: 100;
+  font-size: 60px;
+  font-weight: 550;
   color: rgb(128, 18, 118);
   text-decoration: black underline;
   text-transform: uppercase;
@@ -186,7 +186,7 @@ body {
 
 .frontendRLetter {
   font-size: 36px;
-  font-weight: 25px;
+  font-weight: 25;
   color: rgb(194, 105, 22);
   text-decoration: underline;
   text-transform: uppercase;
@@ -195,7 +195,7 @@ body {
 
 .frontendOLetter {
   font-size: 34px;
-  font-weight: 40px;
+  font-weight: 40;
   color: rgb(119, 187, 226);
   text-decoration: none;
   text-transform: none;
